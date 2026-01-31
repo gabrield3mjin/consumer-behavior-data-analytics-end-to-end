@@ -1,5 +1,3 @@
-SELECT * FROM customer LIMIT 20
-
 --Q1. Qual é a receita total gerada por clientes do sexo masculino vs. feminino?
 SELECT gender, SUM(purchase_amount) AS revenue
 FROM customer
@@ -85,3 +83,4 @@ SUM(purchase_amount) AS total_revenue
 FROM customer
 GROUP BY age_group
 ORDER BY total_revenue DESC;
+
