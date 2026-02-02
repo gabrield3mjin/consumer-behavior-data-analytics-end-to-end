@@ -19,7 +19,7 @@ Abaixo está a representação visual dos KPIs e métricas de comportamento:
 * Orquestração da carga de dados processados para um banco de dados **PostgreSQL** utilizando a biblioteca **SQLAlchemy**.
 
 ### 2. No PostgreSQL:
-* Execução de consultas estruturadas no **PostgreSQL** para extrair indicadores de performance e responder a perguntas de negócio complexas.
+* Execução de consultas estruturadas para extrair indicadores de performance e responder a perguntas de negócio complexas.
 * Desenvolvimento de lógica de segmentação para classificar clientes em grupos de fidelidade (*Novo*, *Recorrente*, *Fiel*) com base no volume de compras anteriores.
 * Aplicação de funções de agregação e filtros para comparar métricas de receita entre perfis demográficos, tipos de frete e status de assinatura.
 
