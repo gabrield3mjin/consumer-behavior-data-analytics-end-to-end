@@ -1,7 +1,6 @@
 # Análise do Compartamento de Compra do Cliente
 
-Este repositório contém um projeto completo de análise de dados focado no comportamento de compra de consumidores de uma loja de roupas, utilizando um conjunto de dados com 3.900 registros e 18 colunas. O fluxo de traba
-lho abrange desde o tratamento de dados com **Python**, análise estruturada via **SQL** até a visualização estratégica no **Power BI**.
+Este repositório contém um projeto completo de análise de dados focado no comportamento de compra de consumidores de uma loja de roupas, utilizando um conjunto de dados com 3.900 registros e 18 colunas. O fluxo de trabalho abrange desde o tratamento de dados com **Python**, análise estruturada via **SQL** até a visualização no **Power BI**.
 
 ## 📌 Visão Geral do Projeto
 O objetivo principal é identificar tendências, melhorar o engajamento do cliente e otimizar estratégias de marketing e produtos para uma empresa líder no varejo. A análise foca em entender como fatores como descontos, avaliações e assinaturas impulsionam as decisões de consumo.
